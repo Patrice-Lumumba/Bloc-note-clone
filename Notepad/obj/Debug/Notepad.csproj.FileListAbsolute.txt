@@ -1,0 +1,12 @@
+C:\Users\Wapal\OneDrive\Documents\Notepad\bin\Debug\Notepad.exe.config
+C:\Users\Wapal\OneDrive\Documents\Notepad\bin\Debug\Notepad.exe
+C:\Users\Wapal\OneDrive\Documents\Notepad\bin\Debug\Notepad.pdb
+C:\Users\Wapal\OneDrive\Documents\Notepad\obj\Debug\Notepad.csproj.AssemblyReference.cache
+C:\Users\Wapal\OneDrive\Documents\Notepad\obj\Debug\Notepad.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wapal\OneDrive\Documents\Notepad\obj\Debug\Notepad.MDIContainer.resources
+C:\Users\Wapal\OneDrive\Documents\Notepad\obj\Debug\Notepad.MyForm.resources
+C:\Users\Wapal\OneDrive\Documents\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+C:\Users\Wapal\OneDrive\Documents\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+C:\Users\Wapal\OneDrive\Documents\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+C:\Users\Wapal\OneDrive\Documents\Notepad\obj\Debug\Notepad.exe
+C:\Users\Wapal\OneDrive\Documents\Notepad\obj\Debug\Notepad.pdb
